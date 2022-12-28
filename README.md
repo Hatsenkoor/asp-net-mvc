@@ -1,4 +1,4 @@
-# ASP.NET Core MVC Example
+# ASP.NET Core MVC Project
 This repository holds sample application which developed using ASP.NET Core MVC
 # First Application
 Its name is EmployeeApplication. It is developed using ASP.NET Core 2.0. 
